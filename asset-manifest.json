@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/NaumanCS/react-app.git/static/css/main.073c9b0a.css",
+    "main.js": "/NaumanCS/react-app.git/static/js/main.63f65fff.js",
+    "static/js/787.7b63f85e.chunk.js": "/NaumanCS/react-app.git/static/js/787.7b63f85e.chunk.js",
+    "index.html": "/NaumanCS/react-app.git/index.html",
+    "main.073c9b0a.css.map": "/NaumanCS/react-app.git/static/css/main.073c9b0a.css.map",
+    "main.63f65fff.js.map": "/NaumanCS/react-app.git/static/js/main.63f65fff.js.map",
+    "787.7b63f85e.chunk.js.map": "/NaumanCS/react-app.git/static/js/787.7b63f85e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.63f65fff.js"
+  ]
+}
